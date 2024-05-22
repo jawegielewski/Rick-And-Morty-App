@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">RickAndMortyApp</string>
+    <string name="status" translatable="false">status</string>
+    <string name="url" translatable="false">url</string>
+    <string name="error_during_api_call">During getting API call an error occurred: %s</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="image">image</string>
+    <string name="name">name</string>
+    <string name="species">species</string>
+    <string name="origin">origin</string>
+    <string name="location">location</string>
+    <string name="created">created</string>
+</resources>

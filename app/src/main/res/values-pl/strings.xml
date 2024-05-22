@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_during_api_call">Podczas wykonywania zapytania API pojawił się błąd: %s</string>
+    <string name="no_internet_connection">Brak internetu.</string>
+    <string name="image">obraz</string>
+    <string name="name">nazwa</string>
+    <string name="species">gatunek</string>
+    <string name="origin">pochodzenie</string>
+    <string name="location">lokalizacja</string>
+    <string name="created">stworzono</string>
+</resources>
